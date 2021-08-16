@@ -66,3 +66,6 @@ ImportError: cannot import name MemTraceProbe:
 
 - boost dependancy
   -  `apt-get install libboost-all-dev `
+
+- this commit doesn't build and complains that gettid is not defined
+  - https://github.com/TUD-OS/gem5-dtu/commit/0922df0e8f47fe3bd2fbad9f57b1b855181c64dd
