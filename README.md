@@ -63,3 +63,6 @@ ImportError: cannot import name MemTraceProbe:
 
 - Solution for above gem5 build error:
   - https://github.com/harvard-acc/gem5-aladdin/issues/8
+
+- boost dependancy
+  -  `apt-get install libboost-all-dev `
