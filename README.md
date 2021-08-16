@@ -58,3 +58,8 @@ ImportError: cannot import name MemTraceProbe:
 ```
 
 - following files seem to be missing from gem5: build/X86/gem5.opt, build/X86/gem5.debug
+
+# 16 August 2021
+
+- Solution for above gem5 build error:
+  - https://github.com/harvard-acc/gem5-aladdin/issues/8
