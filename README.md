@@ -58,6 +58,7 @@ ImportError: cannot import name MemTraceProbe:
 ```
 
 - following files seem to be missing from gem5: build/X86/gem5.opt, build/X86/gem5.debug
+  - the files build/X86/gem5.opt, build/X86/gem5.debug are created during the build process
 
 # 16 August 2021
 
